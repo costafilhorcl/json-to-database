@@ -1,0 +1,12 @@
+This script will receive a json object and store in a database.
+
+Ways to receive a json object:
+1-  File
+2-  Socket TCP
+3-  String
+4-  Object json
+
+Database 
+From a json structure we will create a database model.
+The database function should have some abstraction regardless the SGDB chose
+
