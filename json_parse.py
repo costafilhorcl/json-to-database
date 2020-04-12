@@ -6,5 +6,9 @@ class JSONParser:
         #new branch test
         #new development
         #new development without rebase
+<<<<<<< HEAD
         #to rebase
         #this will work
+=======
+        #vai dar pau
+>>>>>>> work
